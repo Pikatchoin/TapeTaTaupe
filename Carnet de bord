@@ -7,3 +7,11 @@ le bouton "Restart" a la place de "start".
 
 
 Aide: https://www.youtube.com/watch?v=8J8wWxbAdFg
+
+Nous avons regarder la première vidéo de 15min et nous avons réliser en premier notre fond de notre futur jeu.
+
+Lundi 09 Mai:
+
+  Création de différents classes pour chaque type de taupes (3).
+  Après la création de ma classe, nous devons avoir 9 placement possible de nos taupes, nous allons donc appeler 9 fois la commande "player = Player()"
+mais aussi "screen.blit(player.image, (200, 200)" avec le placement de chaque taupe qui apparaitra.
